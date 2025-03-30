@@ -27,6 +27,12 @@
 bash <(curl -Ls https://raw.githubusercontent.com/Jlz0/Gost-ip6/main/install.sh)
    ```
 
+自定义版本：
+
+```bash
+bash <(curl -Ls https://github.com/masoudgb/Jlz0/raw/v2.1.7/Gost.sh)
+   ```
+
 请按照屏幕上的提示根据您的喜好配置GOST隧道。
 
 
